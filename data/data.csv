@@ -1,0 +1,33 @@
+CLIENT,ACTIVITY
+Create an alert,CREATE_ALERT
+Create an alet,CREATE_ALERT
+Create a alert,CREATE_ALERT
+Create alert,CREATE_ALERT
+Cret alert,CREATE_ALERT
+creat an alert,CREATE_ALERT
+Edit alert,EDIT_ALERT
+edit an alert,EDIT_ALERT
+edit alrt,EDIT_ALERT
+edit a alert,EDIT_ALERT
+Delete alet,DELETE_ALERT
+del alert,DELETE_ALERT
+delete a alert,DELETE_ALERT
+delete an alert,DELETE_ALERT
+del an alrt,DELETE_ALERT
+Get top news,GET__MARKET_NEWS
+Get all news,GET__MARKET_NEWS
+Get nws,GET__MARKET_NEWS
+Get market news,GET__MARKET_NEWS
+get business news,GET__MARKET_NEWS
+news,GET__MARKET_NEWS
+Get stock news,GET_STOCK_NEWS
+Get news by stock,GET_STOCK_NEWS
+Last five days market,MARKET_STATUS_HISTORY
+market last days,MARKET_STATUS_HISTORY
+market last few days,MARKET_STATUS_HISTORY
+market summary last  days,MARKET_STATUS_HISTORY
+market condition last days,MARKET_STATUS_HISTORY
+Next few days prediction,MARKET_PREDICTION
+Next five days prediction,MARKET_PREDICTION
+Future prediction,MARKET_PREDICTION
+Stock price prediction,MARKET_PREDICTION
